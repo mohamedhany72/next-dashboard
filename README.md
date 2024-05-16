@@ -35,12 +35,13 @@
   <h3 align="center">Next.js Dashboard</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome README template to jumpstart your projects! <br/>
+    the project is under development
     <br />
     <a href="https://next-dashboard-7299.vercel.app/"><strong>Live Preview »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
     ·
     <a href="https://github.com/mohamedhany72/next-dashboard/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
