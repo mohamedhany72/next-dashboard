@@ -165,7 +165,7 @@ See the [open issues](https://github.com/mohamedhany72/next-dashboard/issues) fo
 
 ## Contact
 
-Your Name - [LinkedIN](https://github.com/mohamedhany72)
+Your Name - [LinkedIN](https://www.linkedin.com/in/mohamed-el-shazly-59560617a/)
 
 Project Link: [https://github.com/mohamedhany72/next-dashboard](https://github.com/mohamedhany72/next-dashboard)
 
